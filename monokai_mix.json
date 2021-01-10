@@ -1,0 +1,65 @@
+{
+  "window.zoomLevel": 1,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "java.semanticHighlighting.enabled": true,
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  "git.enableSmartCommit": true,
+  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3",
+  "python.languageServer": "Microsoft",
+  "workbench.colorCustomizations": {
+    // "editor.font"
+    "editor.background": "#0a0a0a",
+    "foreground": "#bbfaff",
+    "activityBarBadge.background": "#aaff00",
+    "activityBarBadge.foreground": "#000000",
+    "statusBar.foreground": "#b3ff00",
+    "activityBar.activeBorder": "#b3ff00",
+    "activityBar.foreground": "#00fbffa8",
+    "activityBar.border": "#000000",
+    "list.hoverForeground": "#b3ff00",
+    "list.focusBackground": "#06fbff96",
+    "titleBar.activeForeground": "#00f7ff",
+    "titleBar.inactiveForeground": "#00eeff56",
+    "editor.hoverHighlightBackground": "#b3ff006c",
+    // "scrollbar.shadow": "#b3ff00",
+    "sideBarTitle.foreground": "#ffee00",
+    // "sideBarSectionHeader.foreground": "#b3ff00",
+    "tab.activeForeground": "#b3ff00",
+    "tab.inactiveForeground": "#626262",
+    "tab.hoverForeground": "#ffffff",
+    "tab.inactiveBackground": "#222222",
+    "scrollbarSlider.hoverBackground": "#00ffd98e",
+    "terminal.foreground": "#ffffff",
+    // "terminal.ansiBlack": "#ff0000"
+    "terminalCursor.foreground": "#73ff00" //00f7ff
+    // "terminal.background": "#ff0000"
+  },
+  "workbench.colorTheme": "Monokai",
+  "editor.semanticTokenColorCustomizations": {
+    // "enabled": true
+  },
+  "editor.tokenColorCustomizations": {
+    "strings": "#fffb00",
+    "comments": "#d7feff60", //d7feffd8
+    "variables": "#ffffff",
+    "keywords": "#00eeff",
+    "functions": "#d0ff00",
+    "numbers": "#ee8dff" //8dffc2
+  },
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "files.associations": {
+    "*.html": "html"
+  },
+  "editor.fontFamily": "Anonymous pro", //
+  "editor.fontSize": 15,
+  "editor.fontLigatures": true,
+  "editor.linkedEditing": true,
+  // "terminal.integrated.fontFamily": "monospace"
+  "material-icon-theme.languages.associations": {},
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
